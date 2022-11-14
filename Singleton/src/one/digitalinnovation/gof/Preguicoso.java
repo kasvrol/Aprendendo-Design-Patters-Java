@@ -7,7 +7,7 @@ public class Preguicoso {
         super();
     }
 
-    public static Preguicoso getInstacia() {
+    public static Preguicoso getInstancia() {
         if (instancia == null) {
             instancia = new Preguicoso();
         }

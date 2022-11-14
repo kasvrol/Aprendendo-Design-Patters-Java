@@ -7,7 +7,7 @@ public class Apressado {
         super();
     }
 
-    public static Apressado getInstacia() {
+    public static Apressado getInstancia() {
         return instancia;
     }
 }
